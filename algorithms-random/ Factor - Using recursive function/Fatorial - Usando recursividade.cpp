@@ -15,7 +15,7 @@ int main(void) {
     cin >> num;
     cout << num << "!: ";
     
-    //Mostragem da estrutura de um forial;
+    //Mostragem da estrutura de um fatorial;
     for(int c = num; c > 0; c--) {
         if(c == 1) {
             cout << c;
